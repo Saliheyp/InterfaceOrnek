@@ -1,0 +1,15 @@
+D:\Patika\InterfaceOrnek\bin\Debug\net7.0\InterfaceOrnek.exe
+D:\Patika\InterfaceOrnek\bin\Debug\net7.0\InterfaceOrnek.deps.json
+D:\Patika\InterfaceOrnek\bin\Debug\net7.0\InterfaceOrnek.runtimeconfig.json
+D:\Patika\InterfaceOrnek\bin\Debug\net7.0\InterfaceOrnek.dll
+D:\Patika\InterfaceOrnek\bin\Debug\net7.0\InterfaceOrnek.pdb
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.csproj.AssemblyReference.cache
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.AssemblyInfoInputs.cache
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.AssemblyInfo.cs
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.csproj.CoreCompileInputs.cache
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.dll
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\refint\InterfaceOrnek.dll
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.pdb
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\InterfaceOrnek.genruntimeconfig.cache
+D:\Patika\InterfaceOrnek\obj\Debug\net7.0\ref\InterfaceOrnek.dll
